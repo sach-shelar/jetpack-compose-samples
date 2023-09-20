@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">MultiLanguageSample</string>
+    <string name="str_english" translatable="false">English</string>
+    <string name="str_french" translatable="false">French</string>
+    <string name="str_west">West</string>
+    <string name="str_north">North</string>
+    <string name="str_south">South</string>
+    <string name="str_east">East</string>
+
+
+</resources>
